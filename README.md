@@ -17,7 +17,7 @@ To control for multiple comparisons across a large set of clinical predictors, t
 - n = 11,351 patients
 - Data includes: demographics, ICD-10 diagnoses from discharge epicrises (parsed from free text in Russian), surgical timing, ICU admission, length of stay, and in-hospital mortality
 
-> ⚠️ The dataset is not included in this repository due to patient data confidentiality.
+> The dataset is not included in this repository due to patient data confidentiality.
 
 ---
 
